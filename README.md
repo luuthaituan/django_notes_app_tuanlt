@@ -1,0 +1,1 @@
+# django_notes_app_tuanlt
